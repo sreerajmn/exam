@@ -1,0 +1,1 @@
+[06-Jan-2015 11:48:34] PHP Fatal error:  Call to a member function doRestore() on a non-object in /home/adsoft/public_html/demo/examboard/admin/controller.php on line 956

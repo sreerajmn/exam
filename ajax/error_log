@@ -1,0 +1,10 @@
+[19-Jan-2015 07:41:19] PHP Fatal error:  Class 'Filter' not found in /home/adsoft/public_html/demo/examboard/ajax/sendmail.php on line 17
+[19-Jan-2015 07:45:09] PHP Fatal error:  Class 'Filter' not found in /home/adsoft/public_html/demo/examboard/ajax/sendmail.php on line 17
+[19-Jan-2015 07:48:25] PHP Fatal error:  Class 'Filter' not found in /home/adsoft/public_html/demo/examboard/ajax/sendmail.php on line 17
+[22-Jan-2015 01:14:50] PHP Parse error:  syntax error, unexpected '<' in /home/adsoft/public_html/demo/examboard/ajax/sendmail.php on line 48
+[22-Jan-2015 03:28:05] PHP Parse error:  syntax error, unexpected T_IS_EQUAL in /home/adsoft/public_html/demo/examboard/ajax/sendmail.php on line 2
+[22-Jan-2015 03:38:28] PHP Parse error:  syntax error, unexpected T_IS_EQUAL in /home/adsoft/public_html/demo/examboard/ajax/sendmail.php on line 2
+[22-Jan-2015 03:39:46] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/adsoft/public_html/demo/examboard/ajax/sendmail.php on line 50
+[22-Jan-2015 03:41:32] PHP Fatal error:  Class 'Filter' not found in /home/adsoft/public_html/demo/examboard/ajax/sendmail.php on line 16
+[22-Jan-2015 03:42:36] PHP Warning:  require_once(BASEPATHlib/class_mailer.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/adsoft/public_html/demo/examboard/ajax/sendmail.php on line 19
+[22-Jan-2015 03:42:36] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'BASEPATHlib/class_mailer.php' (include_path='.:/opt/php52/lib/php') in /home/adsoft/public_html/demo/examboard/ajax/sendmail.php on line 19
